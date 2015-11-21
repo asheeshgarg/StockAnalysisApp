@@ -1,0 +1,2 @@
+# StockAnalysisApp
+Ionic mobile App
